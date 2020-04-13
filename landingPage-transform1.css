@@ -1,0 +1,11 @@
+ul > li{
+    transition: font-size 1s;
+  }
+  
+  ul > li:hover{
+    transform: scale(1.1,1.1);
+  }
+  
+  ul > li:active {
+    font-size: 30px;
+  }
